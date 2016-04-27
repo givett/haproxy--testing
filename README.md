@@ -1,1 +1,1 @@
-# haproxy--testing
+# haproxy-testing
